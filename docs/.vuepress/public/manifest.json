@@ -1,0 +1,15 @@
+{
+  "name": "BitKeep Documentation",
+  "short_name": "BitKeep Docs",
+  "description": "The Best Decentralized Multi-chain Crypto Wallet",
+  "icons": [
+    {
+      "src": "/bitkeep-icon.svg",
+      "sizes": "72x72 96x96 128x128 256x256 512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#f6851b"
+}
